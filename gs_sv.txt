@@ -1,0 +1,161 @@
+Chrome desktop 042014
+retreat2019 pw: chalatucsonla
+chrome rdp: 052014
+------------
+vonage, amazonchime: https://my.vonagebusiness.com/adminv2/
+nbadami@simpleviewinc.com
+Bolata123!
+Make of first car: Volkswagen Dasher
+-----
+rsbr220cf
+rsbr220sql
+---------------------------
+http://kb.simpleviewinc.com/admin/index.php nbadami@simpleviewinc.com / simpleview
+
+https://brainery.simpleviewinc.com nbadami / s1mpl3m3ndu
+
+Username: crmdemo@simpleviewinc.com; Password: LetMeIn!
+----------------------------------------------------------------
+Projects: live server: \\das-sv.sv.local\code\Simpleview\crm\reports
+------------------------------------------------------
+Photoshop: pw: Sh0wm3c0l0r
+Jing: nbadami@simpleviewinc.com / kittichaan
+
+employee navigator: nbadami@simpleviewinc.com / maz1taby3t!  https://www.employeenavigator.com/benefits/Account/Login
+
+SV ftp: http://wiki.simpleviewinc.com/wiki/IT:Client_and_Staff_FTP_access
+
+News Ticker: EasyDesk Ticker: http://127.0.0.1:23332/ (from http://www.easydeskticker.com/)
+
+Edge: nbadami	G1v3m3Thedata
+(not used pw: G1v30lddatabase)
+
+Printer - Scan folder: \\192.168.250.75\scan
+rsbr220cf
+rsbr220sql
+
+Photoshop - SVrocks12
+
+Common pws: http://wiki.simpleviewinc.com/wiki/Commonly_used_passwords
+
+simpleview_guest -> Simpleview!
+
+cf admin -> mail server: 192.168.0.9
+
+CF admin: http://localhost/CFIDE/administrator/index.cfm ; rsbr220cf
+	- for dev web servers -> sv07cf
+	- for live web servers -> secret-inverts7838
+
+screencast: http://www.screencast.com/users/NMB3820: pw: savemyp1c - displayname nb
+----------------------------
+Lucee admin: http://127.0.0.1:8888/lucee/admin/server.cfm ; rsbr220cf
+
+-------------------------------------
+Extranet 4.0 - dev server: \\crm-dev-1.220office.local\code\
+Extranet 4.0 - live server: \\sas-crm-extranet-1.sv.local\code
+-------------------------------------------------------------------
+Mobi sites - live web server: \\sas-mobile-1.sv.local\code\mobilecrm
+------------------------------------------------------------------------------
+Demo - web server: \\sas-crm-4.sv.local\code\crm30\demo\
+--------------------------------------------------------------
+D3V6 sites: sas-custom.sv.local
+-------------------------------------------------------
+
+CRM (Training/demo/clients): crm@simpleviewinc.com ; SVrocks!
+
+lynda.com: hr@simpleviewinc.com ; 220admin
+
+sql server: admin; rsbr220sql
+
+----\webapi\forms\admin\login\index.cfm
+-----------------
+nbadami@simpleviewinc.com / Maz1taby3t
+make and model of your firstcar - volkswagon dasher
+
+------------------------------- help docs, sqls etc:
+\\192.168.0.23\crm
+
+http://wiki.simpleviewinc.com/wiki/Add_File_Upload_Field
+--------------
+SQLSERVER2014: admin login: sa pw: rsbr220SQL ; also can use windows authentication
+
+------------------------------- Core
+Core_Current: http://svn.simpleviewinc.com:8080/svn/code/CRM/tags/RD/core/_current
+
+Bleeding Edge: http://svn.simpleviewinc.com:8080/svn/code/CRM/trunk/RD/core
+
+--------formbuilders on cms sites
+ \\sv-dev2.asp.local\code\LagunaBeach\main\includes\cfcs\crmfb30
+ - files uploaded fo in to crm -> docs -> if udf then in customs folder
+
+-------------------------------live db backup files on sql servers:
+T:\SQLP\temp\
+
+----------------
+Projects/Simpleview CRM - live server:	\\das-sv.sv.local\code\Simpleview\crm\reports
+
+
+---------------three servers: vm-stage-1.asp; vm-stage-2.asp;vm-stage-3.asp, cf pw: sv07cf
+dev: \\vm-stage-1.asp.local\branches\
+staging: \\vm-stage-3.asp.local\code\ (this is same as \\vm-stage-3.asp.local\web_sites\)
+
+---------------------live servers: \\sas-crm-7.sv.local; \\sas-crm-8.sv.local
+
+live: \\sas-crm-7.sv.local\web_sites\crm30
+
+----admin forms:
+\\192.168.0.23\Internal\Administration\Forms
+
+-- svn repository
+http://svn.simpleviewinc.com:8080/svn/code/CRM/trunk/Clients/ 
+
+------------------------------------------------------
+ph: 912000
+https://myvoice.telesphere.com/Login/
+--------------------------------
+
+hp-dita: Domain/dmb, summer2014
+googletalk: adyjqqrqooqjvsqs
+
+nbadami2000 - n3wc0mpany
+
+----
+https://www.linkedin.com/learning/ 
+- nbadami@simpleviewinc.com
+malash1kav
+----------------------------------------
+
+
+nbadami - n3wc0mpany
+
+simpleview CRM, network drives - nbadami / l3tm31nCRM
+
+concur: s1mpletravel
+
+triptit: prawaas
+
+pandora: dbadami@softwaremgt.com / sm1mus1c
+
+codeschool: nbsv / l3arnn3w
+
+join.me: nbadami@simpleviewinc.com / test1ngw1thd1ta
+-----
+
+corporateperk:  maz3p3rk
+
+health - easecentral: Maz1taby3t
+---
+https://www.codecademy.com/ - MiYatri / malash1kav
+
+---
+FlexBox  Zombies - nbadami@simpleviewinc.com / malash1kav
+----
+uber - mazapr@was12
+
+mazapagar123!
+Pirated - MLB.com -> un: nbadami@simpleviewinc.com pw: chalakheluya
+
+digital sign: saved on D:\Dita\sv\Nivedita_DigitalSign, expires 2024.07.19  -> pw - maz1Swakshar1
+------------------------
+GitLab - nbadami@simpleviewinc.com -> nbadamisv / sh0dhuya
+
